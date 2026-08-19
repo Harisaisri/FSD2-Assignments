@@ -10,7 +10,7 @@ app.get("/", (req, res) => {
     res.render("index", {
         title: "Home Page",
         error: null,
-        user: "Bhavani"
+        user: "hari"
     });
 });
 
